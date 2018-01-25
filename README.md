@@ -1,2 +1,2 @@
 # data-visualization
-Starter code to setup monitoring and visualization environments
+Starter code to set up monitoring and visualization environments
